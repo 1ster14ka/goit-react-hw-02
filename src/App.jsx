@@ -2,10 +2,10 @@
 // import viteLogo from "/vite.svg";
 import { useEffect, useState } from "react";
 import "./App.css";
-import Descriptions from "./commponents/Descriptions/Descriptions";
-import Options from "./commponents/Options/Options";
-import FeedBack from "./commponents/FeedBack/FeedBack";
-import Notification from "./commponents/Notification/Notification";
+import Descriptions from "./components/Descriptions/Descriptions";
+import Options from "./components/Options/Options";
+import FeedBack from "./components/FeedBack/FeedBack";
+import Notification from "./components/Notification/Notification";
 
 function App() {
   // const [feedBack, setFeedBack] = useState({
